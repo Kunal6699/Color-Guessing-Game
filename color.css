@@ -1,0 +1,36 @@
+body
+{
+	background-color: cyan;
+}
+
+.square
+{
+	width: 30%;
+	margin: 1.5%;
+     background-color: purple;
+     float: left;
+     padding-bottom: 30%;
+}
+  #tot
+  {
+  	max-width: 80%;
+  	margin: 0 auto;
+  }
+  #babu
+  {
+  	color: "red";
+  	float: left;
+  	font-family: arial;
+  	font-size: 25px;
+  }
+  #stripe
+  {
+  	background-color: white;
+  	height: 28px;
+  	text-align: center;
+       
+  }
+  .selected
+  {
+  	background-color: blue;
+  }
